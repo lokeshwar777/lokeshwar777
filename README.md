@@ -21,17 +21,17 @@
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=lokeshwar777&show_icons=true&theme=dark&hide_rank=true&custom_title=Loki's%20GitHub%20Stats"
-    height="180"
+    height="160"
     alt="Loki's GitHub Stats"
   />
   <img
-    src="https://github-readme-streak-stats-gules-iota.vercel.app?user=lokeshwar777&theme=dark&hide_current_streak=true&card_width=350&short_numbers=true"
-    height="180"
+    src="https://github-readme-streak-stats-gules-iota.vercel.app?user=lokeshwar777&theme=dark&hide_current_streak=true&card_width=300&short_numbers=true"
+    height="160"
     alt="Loki's GitHub Streak"
   />
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshwar777&layout=compact&theme=dark"
-    height="180"
+    height="160"
     alt="Loki's Most Used Languages"
   />
 </p>
